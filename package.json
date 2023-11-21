@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "jest --verbose --detectOpenHandles --forceExit --coverage"
+    "test": "jest --verbose --detectOpenHandles --forceExit --coverage",
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
